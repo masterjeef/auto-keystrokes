@@ -2,11 +2,11 @@
 
 SET exePath=AutoKeystrokes\AutoKeystrokes\bin\Debug
 
-SET KeyWait=1000
+SET KeyWait=250
 
 SET Process=NotePad
 
-SET Keys=12345
+SET Keys=123456789
 
 cd %exePath%
 

@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/masterjeef/auto-keystrokes/master/auto-keystrokes.png "Auto Keystrokes")
+
 # Auto Keystrokes
 
 Auto Keystrokes automates a series of keystrokes to eliminate annoying typing rituals. I created this because I attend regular meetings in a joinme conference room, and I have to enter the same 9 digit meeting password every time I join the meeting. This script enters those keys for me now.

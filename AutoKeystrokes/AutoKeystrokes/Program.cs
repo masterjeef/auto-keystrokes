@@ -1,11 +1,5 @@
-﻿using EasyArgs;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using AutoKeystrokes.Models;
+﻿using AutoKeystrokes.Models;
+using EasyArgs;
 
 namespace AutoKeystrokes
 {

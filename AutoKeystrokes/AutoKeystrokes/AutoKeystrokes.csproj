@@ -33,8 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EasyArgs, Version=1.0.6141.42446, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\EasyArgs.1.0.6141.42446\lib\net461\EasyArgs.dll</HintPath>
+    <Reference Include="EasyArgs, Version=1.0.6144.38421, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EasyArgs.1.0.6144.38421\lib\net461\EasyArgs.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
